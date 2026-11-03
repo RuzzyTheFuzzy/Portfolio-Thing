@@ -15,16 +15,26 @@ h1 {
     font-size: large;
 }
 
-h2 {
+.Name {
     color: lightpink;
+    font-size: 5em;
+    margin: initial;
+}
+
+h2 {
+    font-size: x-large;
+    color: lightgray;
+    text-align: center;
 }
 
 h3 {
     font-size: xx-large;
+    color: lightgray;
+    text-align: center;
 }
 
 main {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .PDisc {
